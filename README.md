@@ -1,12 +1,13 @@
-# 🎓 Student Feedback Classifier using Generative AI (FLAN-T5 + IBM Watsonx)
+# 🎓 Student Feedback Classifier using Generative AI (FLAN-T5)
 
 > 🔍 Automatically categorize student feedback into meaningful categories using a zero-shot generative AI model (FLAN-T5).  
 > 📌 Built as part of the “Gen AI using IBM Watsonx” course at VIT Chennai.
 
 ![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
+## 🔁 Project Flowchart
+![Flowchart](images/Flowchart.png)
 
 ## 📘 Overview
 
@@ -29,9 +30,7 @@ Using a zero-shot learning approach, the model classifies feedback **without any
 
 ## 📊 Demo & Screenshots
 
-> 📎 Add your generated plots, flowcharts, and output images below:
-
-### 📂 Dataset Visualization
+### 📂 Class Balance Check
 ![Class Distribution](images/class_dist.png)
 
 ### 🧠 Word Cloud
@@ -39,9 +38,6 @@ Using a zero-shot learning approach, the model classifies feedback **without any
 
 ### 🧪 Model Performance
 ![Confusion Matrix](images/confusion_matrix.png)
-
-### 🔁 Flowchart of the Pipeline
-![Flowchart](images/Flowchart.png)
 
 ---
 
